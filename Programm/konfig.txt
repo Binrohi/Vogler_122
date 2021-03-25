@@ -1,0 +1,7 @@
+mp3,C:\Users\Robin\Music
+wav,C:\Users\Robin\Music
+mp4,C:\Users\Robin\Videos
+png,C:\Users\Robin\Pictures
+jpg,C:\Users\Robin\Pictures
+jpeg,C:\Users\Robin\Pictures
+gif,C:\Users\Robin\Pictures
